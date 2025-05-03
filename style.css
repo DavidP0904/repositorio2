@@ -1,0 +1,27 @@
+div{
+    background-color: rgb(6, 121, 121);
+    padding: 20px; 
+    margin: 10px;
+    border-radius: auto; 
+}
+#body{
+    background-color: rgb(11, 15, 223);
+    padding: 20px; 
+    margin: 10px;
+    border-radius: auto; 
+}
+#big-text{
+    font-size: 30px;
+    color: rgb(228, 3, 3);
+    text-align: center;
+}
+.medium-text{
+    font-size: 20px;
+    color: rgb(10, 233, 10);
+    text-align: center;
+}
+.main-title{
+    font-size: 15px;
+    color: rgb(4, 4, 56);
+    text-align: center;
+}
